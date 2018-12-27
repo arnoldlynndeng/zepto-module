@@ -1,0 +1,23 @@
+{
+  "name": "zepto-module",
+  "version": "1.0.0",
+  "description": "commonjs zepto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengchangliang23/zepto-module.git"
+  },
+  "keywords": [
+    "zepto",
+    "commonjs"
+  ],
+  "author": "dengchangliang23@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengchangliang23/zepto-module/issues"
+  },
+  "homepage": "https://github.com/dengchangliang23/zepto-module#readme"
+}
