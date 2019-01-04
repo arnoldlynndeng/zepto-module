@@ -1,6 +1,6 @@
 {
   "name": "zepto-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "commonjs zepto",
   "main": "index.js",
   "scripts": {
